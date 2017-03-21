@@ -1,9 +1,10 @@
 # TTN Node IDs
-DEV_EUI = '<DEV_EUI>'
-APP_EUI = '<APP_EUI>'
-APP_KEY = '<APP_KEY>'
 
-# Debug
+DEV_EUI = '<dev_eui>'
+APP_EUI = '<app_eui>'
+APP_KEY = '<app_key>'
+
+# Debugcd
 DEBUG_LED = True
 DEBUG_CON = True
 
@@ -12,10 +13,10 @@ LORA_FREQUENCY = 868100000
 LORA_DR = 5   # DR_5
 
 # Prefix of each packet
-PKT_PREFIX = b'PKT #'
+PKT_PREFIX = b''
 
 # Sleep time in packet send
-SLEEP_MAIN = 600
+SLEEP_MAIN = 60
 
 # Low Energy config
 DIS_WIFI = True
