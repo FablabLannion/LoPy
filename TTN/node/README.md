@@ -3,7 +3,7 @@ LoraWan module
 
 Ce code de module est basé sur la l'exemple officiel de PyCom
 disponible à l'adresse:
-https://github.com/pycom/pycom-libraries/tree/master/examples/loraNanoGateway .
+https://github.com/pycom/pycom-libraries/tree/master/examples/lorawan-nano-gateway .
 Des fonctions de debug visuel et debug console ont été ajoutés pour faciliter
 l'utilisation de la gateway.
 
